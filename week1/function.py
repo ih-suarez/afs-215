@@ -1,6 +1,7 @@
 def is_num_perfect():
     # Number Input
-    num = int(input('Want to know if a number is a perfect number or not? Give me a number '))
+    print('I will tell if a number is a Perfect Number')
+    num = int(input('Give me a number '))
     # Making my List of Numbers from 1 to any given number 
     # and calculating if they are divisible by the number given
     numbers_divisible = [n for n in range(1, num) if num % n == 0]
