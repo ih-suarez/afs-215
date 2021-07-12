@@ -14,6 +14,3 @@
     **Bold** Sample Output: 
 
     **Italic** True
-
-    - pictoral presentation.PNG
-    ![Image](https://bryanuniversity.instructure.com/courses/11282/files/860264/preview)
