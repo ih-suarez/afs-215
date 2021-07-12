@@ -1,7 +1,8 @@
-def is_num_perfect():
-    # Number Input
-    print('I will tell if a number is a Perfect Number')
-    num = int(input('Give me a number '))
+# Number Input
+print('I will tell if a number is a Perfect Number')
+num = int(input('Give me a number '))
+
+def is_num_perfect(num):
     # Making my List of Numbers from 1 to any given number 
     # and calculating if they are divisible by the number given
     numbers_divisible = [n for n in range(1, num) if num % n == 0]
@@ -21,5 +22,6 @@ def is_num_perfect():
         print(f'Sum of these numbers is = {numbers_total}')
         print(f'{numbers_total} is not equal to {num}')
         print(f'{num} is not a Perfect Number')
+    return num
 
-is_num_perfect()
+is_num_perfect(num)
