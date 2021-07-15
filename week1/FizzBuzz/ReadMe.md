@@ -1,4 +1,4 @@
-# This assignment will give you practice using the TDD approach.
+# This assignment gave us practice using the TDD approach.
 
     * In your Week 1 folder, create a folder called ‘fizzbuzz’ for this assignment.
     * Create a project fizzbuzz using pycharm IDE.

@@ -1,4 +1,4 @@
-# This assignment will give you practice recalling Python functions.
+# This assignment gave us practice recalling Python functions.
 
 > From Wikipedia : In number theory, a perfect number is a positive integer that is equal to the sum of its proper positive divisors, that is, the sum of its positive divisors excluding the number itself (also known as its aliquot sum). Equivalently, a perfect number is a number that is half the sum of all of its positive divisors (including itself).
 
