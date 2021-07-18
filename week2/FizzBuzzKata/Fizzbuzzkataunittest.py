@@ -24,6 +24,10 @@ def test_fizzbuzz():
         if int(num) % 5 == 0:
             print(f'Buzz')
             continue
-        
+        else:
+            test_testing = False
+            print(f'Test Failed: Invalid Input.')
+            print(f'test_testing = {test_testing}')
+            break
 test_fizzbuzz()
 
