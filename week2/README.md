@@ -1,6 +1,6 @@
 # FizzBuzzKata 
 
-    > We will be implementing a function that will pass an integer as in input. Function will return “fizz” if the passed in number is multiple of “3” , “buzz” if the pass in number is multiple of “5”, and “fizzbuzz” if the passed in number is multiple of “3” & “5”.
+> We will be implementing a function that will pass an integer as in input. Function will return “fizz” if the passed in number is multiple of “3” , “buzz” if the pass in number is multiple of “5”, and “fizzbuzz” if the passed in number is multiple of “3” & “5”.
 
     1. In your Week 2 folder, create a folder called ‘fizzbuzzkata’ for this assignment.
     2. Create a project called fizzbuzzkata
