@@ -1,3 +1,5 @@
+// To Start server Enter 'node createServer.js' in the terminal
+
 // Importing and declaring http variable
 const http = require('http')
 
