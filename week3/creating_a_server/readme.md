@@ -5,4 +5,4 @@
 2. Create a createserver.js file
 3. In a console, navigate to the directory in which you have saved your file. Start the server with node app.js
 
-Visit [localhost](Links to localhost for you.) to ensure you have achieved success. 
+Visit [Link](Links to localhost for you.) to ensure you have achieved success. 
