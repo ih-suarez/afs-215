@@ -1,4 +1,6 @@
-// To Start server Enter 'node createServer.js' in the terminal
+// This is the source I had to use to complete the assignment. https://www.youtube.com/watch?v=lm86czWdrk0
+
+// First Start the server by entering 'node createServer.js' in the terminal
 
 // Importing and declaring http variable
 const http = require('http')
