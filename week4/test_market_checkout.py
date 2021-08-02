@@ -31,14 +31,12 @@ class TestCheckout(unittest.TestCase):
 
     # Test the function for applying discounts
     def test_apply_discount(self):
-        self.checkout.apply_discount(50)
-        
         # add items
         self.checkout.add_item('bread', 10, 1)
 
         self.checkout.calculate_total_price()
 
-        self.assertEqual(self.test_apply_discount(), 5)
+        self.assertEqual(self.checkout.apply_discount(50), 5)
         
 
     
