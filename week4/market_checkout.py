@@ -38,7 +38,7 @@ class Market_Checkout:
 # Setting checkout Variable
 market = Market_Checkout()
 
-# Add Items along displaying the products 
+# Add Items along with displaying the products 
 market.add_item('bread', 5, 1)
 market.add_item('butter', 3, 1)
 print(market.products)
