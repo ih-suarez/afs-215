@@ -6,7 +6,7 @@ import unittest
 
 # Setting up Test Class
 class TestFizzBuzz(unittest.TestCase):
-    
+
     # For input of 1
     def test_get_one(self):
         self.assertEqual(fizzbuzz.test_fizzbuzz(1), 'Get 1')
