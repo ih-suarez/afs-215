@@ -13,12 +13,12 @@ class Market_Checkout:
     
     # Function that adds an Item to the shopping cart. Item, Price, Quantity
     def add_item(self, item, price, quantity):
-            if item not in self.products:
-                self.products[item] = {}
-                self.products[item]['price'] = price
-                self.products[item]['quantity'] = quantity
-            else:
-                self.products[item]['quantity'] += quantity
+        if item not in self.products:
+            self.products[item] = {}
+            self.products[item]['price'] = price
+            self.products[item]['quantity'] = quantity
+        else:
+            self.products[item]['quantity'] += quantity
 
     # Function that calculates the total of all products
     def calculate_total_price(self):
